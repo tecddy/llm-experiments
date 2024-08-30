@@ -1,0 +1,19 @@
+{
+  "name": "tecddy-llm-experiments-query-documents",
+  "version": "1.0.0",
+  "main": "main",
+  "scripts": {
+    "start": "bun ./main.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bun": "^1.1.24",
+    "date-fns": "^3.6.0",
+    "llamaindex": "^0.5.20"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.1.6"
+  }
+}

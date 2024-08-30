@@ -1,0 +1,22 @@
+{
+  "name": "tecddy-llm-experiments-extract-information",
+  "version": "1.0.0",
+  "main": "main",
+  "scripts": {
+    "start": "bun ./main.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bun": "^1.1.24",
+    "date-fns": "^3.6.0",
+    "llamaindex": "^0.5.20",
+    "xoshiro128": "^0.1.0",
+    "yaml": "^2.5.0",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.1.6"
+  }
+}
